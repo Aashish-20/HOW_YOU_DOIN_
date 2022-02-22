@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btnUsers"
+        android:icon="@drawable/ic_users"
+        android:title="users"/>
+    <item
+        android:id="@+id/fabNa"
+        android:icon="@drawable/ic_create_post"
+        android:title="post"/>
+</menu>

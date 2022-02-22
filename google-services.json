@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618162103433",
+    "project_id": "how-you-doin-5df13",
+    "storage_bucket": "how-you-doin-5df13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618162103433:android:ed9066fde4a609ffaf9258",
+        "android_client_info": {
+          "package_name": "com.example.how_you_doin_"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618162103433-8uup0faj8rld9co6lhrtonbelrf7i401.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyHPlxh5HfSXNg1Xw04fwO8pVNQzfyvwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618162103433-8uup0faj8rld9co6lhrtonbelrf7i401.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
